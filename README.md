@@ -35,7 +35,7 @@
     In addition to the results printed to the terminal, we used the txt_file.write command to display the election results in a different more readable format.  As seen in the image below, it can be determined that the candidate with the most votes and the highest percentage of the total votes was Diana DeGette with 272,892 votes and 73.8% of the total votes.  The runner up candidate was Charles Casper Stockham with 
     85,213 total votes for him at 23% of the total votes.  As we saw when comparing the county results, there is a significant difference between the winning candidate and the third place candidate.  Raymon Anthony Doane received only 11,606 votes with a mere 3.1% percentage of the total vote.  
 
-![Election_Analysis__txt_Image](Election_Analysis__txt_Image.png)  
+![Election_Analysis__txt_Image](Election_Analysis__txt_Image.png) 
  
 *Winning Candidate Summary
     The candidate who won the election was Diana Degette with a winning vote count of 272,892 and 73.8% of the overall votes.  The final results were once again found by using an "if statement" in the code which then printed the results to the terminal as shown below.
